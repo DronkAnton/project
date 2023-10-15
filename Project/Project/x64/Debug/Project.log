@@ -1,0 +1,19 @@
+﻿  MyForm.cpp
+C:\Users\User\source\repos\Project\Project\MyForm.h(112,24): error C2365: Project::MyForm::Btn_AddTask: переопределение; предыдущим определением было "данные-член"
+C:\Users\User\source\repos\Project\Project\MyForm.h(40,43): message : см. объявление "Project::MyForm::Btn_AddTask"
+C:\Users\User\source\repos\Project\Project\MyForm.h(115,2): error C2059: синтаксическая ошибка: }
+C:\Users\User\source\repos\Project\Project\MyForm.h(115,2): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\User\source\repos\Project\Project\MyForm.h(85,74): error C2039: "button1_Click": не является членом "Project::MyForm".
+C:\Users\User\source\repos\Project\Project\MyForm.h(15,19): message : см. объявление "Project::MyForm"
+C:\Users\User\source\repos\Project\Project\MyForm.h(85,1): error C2065: button1_Click: необъявленный идентификатор
+C:\Users\User\source\repos\Project\Project\MyForm.h(85,1): error C3924: ошибка в аргументе #2 вызова конструктора делегата "System::EventHandler":
+C:\Users\User\source\repos\Project\Project\MyForm.h(85,1): message : требуется указатель на функцию-член
+C:\Users\User\source\repos\Project\Project\MyForm.h(116,1): error C2059: синтаксическая ошибка: }
+C:\Users\User\source\repos\Project\Project\MyForm.h(116,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\User\source\repos\Project\Project\MyForm.cpp(6,2): error C2337: STAThreadAttribute: атрибут не найден
+C:\Users\User\source\repos\Project\Project\MyForm.cpp(8,16): error C2065: String: необъявленный идентификатор
+C:\Users\User\source\repos\Project\Project\MyForm.cpp(8,23): error C2059: синтаксическая ошибка: >
+C:\Users\User\source\repos\Project\Project\MyForm.cpp(8,30): error C3699: ^: это косвенное обращение невозможно использовать для типа "unknown-type"
+C:\Users\User\source\repos\Project\Project\MyForm.cpp(8,30): message : для продолжения работы компилятор заменил "^" на "*"
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
